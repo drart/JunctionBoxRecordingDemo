@@ -1,0 +1,13 @@
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin: 15px;
+}
+#message {
+    font-family: monospace;
+    font-size: 148%;
+    border-radius: 10px;
+    background-color: #aaa;
+    padding: 1em;
+}
